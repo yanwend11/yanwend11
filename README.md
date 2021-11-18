@@ -1,16 +1,17 @@
-### Hi there 👋
+## I'm Yan Wendling!
 
-<!--
-**yanwend11/yanwend11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![yanwend11's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanwend11&show_icons=true&theme=synthwave)](https://github.com/yanwend11/github-readme-stats)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yanwend11)](https://github.com/yanwend11)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanwendling/)]( https://www.linkedin.com/in/yanwendling/)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! 
